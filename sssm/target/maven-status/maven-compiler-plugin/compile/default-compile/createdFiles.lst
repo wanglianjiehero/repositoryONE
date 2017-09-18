@@ -1,0 +1,6 @@
+com\xhhy\util\MySqlProvider.class
+com\xhhy\controller\UserController.class
+com\xhhy\dao\UserDao.class
+com\xhhy\service\UserServiceOImpl.class
+com\xhhy\domain\User.class
+com\xhhy\service\UserService.class
